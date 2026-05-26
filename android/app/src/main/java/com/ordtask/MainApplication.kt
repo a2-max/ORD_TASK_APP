@@ -1,4 +1,4 @@
-package com.ordtask
+package com.ord.ordtask
 
 import android.app.Application
 import com.facebook.react.PackageList
